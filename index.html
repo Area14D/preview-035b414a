@@ -11,7 +11,7 @@
 <meta property="og:image" content="img/hr_IMG_3169.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@300;400;500&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+TC:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=4">
+<link rel="stylesheet" href="style.css?v=5">
 </head>
 <body class="day">
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
@@ -241,6 +241,6 @@ function dialSVG(p,size){const R=22,c=24;let lit='';
  return `<svg width="${size}" height="${size}" viewBox="0 0 48 48" style="vertical-align:middle"><circle cx="24" cy="24" r="22" style="fill:var(--disc,#0C0C0C)"/>${lit}</svg>`}
 document.querySelectorAll('[data-pct]').forEach(el=>{el.insertAdjacentHTML('afterbegin',dialSVG(+el.dataset.pct,+(el.dataset.size||18))+' ')});
 </script>
-<script src="app.js?v=4"></script>
+<script src="app.js?v=5"></script>
 </body>
 </html>
