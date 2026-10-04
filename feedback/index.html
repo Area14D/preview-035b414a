@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-HK">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Feedback · AREA 14D</title>
+<meta name="description" content="Leave a note for AREA 14D — what worked, what didn't.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@300;500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;700&family=Noto+Sans+TC:wght@500;900&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#0C0C0C;--char:#2E2D2B;--paper:#F3F2EE;--concrete:#DAD6CE;--graph:#6B675F;--sun:#FFB21A;--disc:#2E2D2B}
+*{box-sizing:border-box;margin:0;padding:0}
+[hidden]{display:none!important}
+html,body{background:var(--ink)}
+body{font-family:'Inter','Noto Sans TC',sans-serif;color:var(--paper);min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.wrap{width:100%;max-width:560px;margin:0 auto;padding:22px 20px 28px;flex:1;display:flex;flex-direction:column}
+
+.lk{display:inline-flex;align-items:center;gap:.6em;line-height:1;font-size:15px;text-decoration:none}
+.lk-m{width:2.3em;height:2.3em;flex:none}
+.lk-t{display:inline-flex;flex-direction:column}
+.lk-w{font-family:'Lexend Exa',sans-serif;font-weight:500;letter-spacing:.14em;margin-right:-.14em;text-transform:uppercase;white-space:nowrap}
+.lk-s{font-family:'JetBrains Mono',monospace;font-size:.28em;letter-spacing:.22em;text-transform:uppercase;opacity:.75;margin-top:.8em;white-space:nowrap}
+.top{display:flex;justify-content:space-between;align-items:center}
+.tag{font-family:'JetBrains Mono',monospace;font-weight:500;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--sun)}
+
+.hero{margin-top:12vh}
+.slit{width:2px;height:44px;background:var(--sun);margin-bottom:26px}
+h1{font-family:'Lexend Exa',sans-serif;font-weight:500;font-size:clamp(34px,10vw,50px);line-height:1.04;letter-spacing:-.01em}
+.zh-h{font-family:'Noto Sans TC',sans-serif;font-weight:900;font-size:clamp(28px,8.4vw,40px);letter-spacing:.06em;line-height:1.2;margin-top:14px}
+.lede{font-size:16px;line-height:1.55;color:rgba(243,242,238,.78);margin-top:22px}
+
+.acts{margin-top:34px;display:flex;flex-direction:column;gap:12px}
+.btn{display:flex;align-items:center;justify-content:space-between;gap:12px;text-decoration:none;border-radius:999px;padding:17px 22px;font-weight:600;font-size:16px;line-height:1.2}
+.btn small{display:block;font-family:'Noto Sans TC',sans-serif;font-weight:500;font-size:13px;opacity:.75;margin-top:3px}
+.btn.primary{background:var(--sun);color:var(--ink)}
+.btn.ghost{border:1px solid rgba(243,242,238,.28);color:var(--paper)}
+.btn .arr{font-family:'JetBrains Mono',monospace;font-size:18px}
+.btn:active{transform:scale(.99)}
+
+.note{margin-top:22px;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.08em;color:rgba(243,242,238,.5);line-height:1.6}
+footer{margin-top:auto;padding-top:40px;display:flex;justify-content:space-between;align-items:flex-end;border-top:1px solid rgba(243,242,238,.14);padding-top:18px;font-size:12px;color:rgba(243,242,238,.6);line-height:1.5}
+footer .n{font-family:'Lexend Exa',sans-serif;font-size:15px;letter-spacing:.04em;color:var(--paper)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <a class="lk" href="../" aria-label="AREA 14D home"><svg class="lk-m" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="22" style="fill:var(--disc)"/><rect x="23" y="2" width="2.2" height="22" fill="#FFB21A"/></svg><span class="lk-t"><span class="lk-w">AREA 14D</span><span class="lk-s">Light, controlled.</span></span></a>
+    <span class="tag">Feedback · 意見</span>
+  </div>
+
+  <section class="hero">
+    <div class="slit" aria-hidden="true"></div>
+    <h1>How was<br>the light?</h1>
+    <div class="zh-h">光，合你心意嗎？</div>
+    <p class="lede">What worked, what didn’t — we read every note.<br>好與不好，我們都想知道。一分鐘就夠。</p>
+
+    <div class="acts">
+      <a id="form" class="btn primary" href="#" target="_blank" rel="noopener" hidden>
+        <span>Leave a note<small>留下意見 · 毋須登入，可匿名</small></span><span class="arr">→</span></a>
+      <a id="wa" class="btn" href="#" target="_blank" rel="noopener">
+        <span>Message us on WhatsApp<small>用 WhatsApp 直接話我們知</small></span><span class="arr">→</span></a>
+    </div>
+    <p class="note">Need something right now? WhatsApp 9645 7564.<br>現場有任何需要，歡迎直接聯絡我們。</p>
+  </section>
+
+  <footer>
+    <span>Unit 14D, Gee Wing Chang Ind. Bldg<br>6 Fung Yip Street, Chai Wan</span>
+    <span class="n">9645 7564</span>
+  </footer>
+</div>
+<script>
+// Paste the Google Form link here once it exists (the "Send → link" URL). Empty = WhatsApp only.
+const FORM_URL = '';
+const WHATSAPP = '85296457564';
+const wa = document.getElementById('wa'), form = document.getElementById('form');
+wa.href = `https://wa.me/${WHATSAPP}?text=${encodeURIComponent('AREA 14D feedback 意見：\n')}`;
+if (FORM_URL) { form.href = FORM_URL; form.hidden = false; wa.classList.add('ghost'); }
+else { wa.classList.add('primary'); }
+</script>
+</body>
+</html>
