@@ -1,2 +1,5 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /feedback/
+
+Sitemap: https://area14d.com/sitemap.xml
