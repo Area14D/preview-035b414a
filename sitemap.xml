@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://area14d.com/</loc>
     <lastmod>2026-11-27</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://area14d.com/" />
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://area14d.com/zh/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://area14d.com/" />
+    <image:image><image:loc>https://area14d.com/photos/area14d-chai-wan-studio-windows-lounge.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-daylight-studio-window-shadows.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-studio-white-floor-diffusion-frame.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-blackout-studio-lighting.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-blackout-curtains-sunlight.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-studio-makeup-station-windows.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-lounge-leather-sofas.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-entrance-door.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-restrooms.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-makeup-mirrors-windows.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-long-table-rug.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-plants-south-east-windows.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-long-table-from-above.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-wide.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-felt-wall.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-paper-screen-lounge.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-lounge-fiddle-leaf-fig.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-makeup-station-mirror-lights.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-makeup-area-plants.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-window-corner.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-north.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-diffusion-frame.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-lounge-long-table.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-cream-sofa-plants.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-chairs.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-long-table-open-floor.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://area14d.com/zh/</loc>
@@ -13,5 +39,31 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://area14d.com/" />
     <xhtml:link rel="alternate" hreflang="zh-HK" href="https://area14d.com/zh/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://area14d.com/" />
+    <image:image><image:loc>https://area14d.com/photos/area14d-chai-wan-studio-windows-lounge.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-daylight-studio-window-shadows.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-studio-white-floor-diffusion-frame.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-blackout-studio-lighting.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-blackout-curtains-sunlight.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/area14d-studio-makeup-station-windows.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-lounge-leather-sofas.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-entrance-door.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-restrooms.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-makeup-mirrors-windows.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-long-table-rug.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-plants-south-east-windows.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-long-table-from-above.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-wide.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-felt-wall.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-paper-screen-lounge.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-lounge-fiddle-leaf-fig.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-makeup-station-mirror-lights.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-makeup-area-plants.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-window-corner.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-north.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-diffusion-frame.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-lounge-long-table.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-cream-sofa-plants.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-open-floor-chairs.jpg</image:loc></image:image>
+    <image:image><image:loc>https://area14d.com/photos/space/area14d-studio-long-table-open-floor.jpg</image:loc></image:image>
   </url>
 </urlset>
